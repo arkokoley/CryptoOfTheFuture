@@ -1,6 +1,6 @@
 # CryptoOfTheFuture
 
-This project will implement a deep learning reinforcement algorithm — proximal policy optimization — to devise an automatically generating strategy for Ethereum transactions. Long short-term memory is used to make predictions for next day closing prices, which will in turn be used to construct the automatic policy. The stages of the project are as follows:
+This project will implement a deep learning reinforcement algorithm — proximal policy optimization — to devise an automatically generating strategy for Ethereum transactions. Long short-term memory is used to make predictions for next day closing prices, which will in turn be used to construct the automatic policy. The completed stages of the project are as follows:
 
 1. Extracting Hourly Ether price data from Binance API beginning on August 21, 2017 through February 17, 2021
 2. Preprocessing data using MinMaxScaler
