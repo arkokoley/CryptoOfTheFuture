@@ -28,3 +28,7 @@ This project will implement a deep learning reinforcement algorithm — proximal
 ## Contibutors
 
 Ariel Lee, Gaurav Koley, Rahul Razdan
+
+# Sources Consulted
+1. In order to create the baselines, the website  https://analyticsindiamag.com/creating-a-market-trading-bot-using-open-ai-gym-anytrading/ was used as a reference. It was extremely helpful to get the code for baselines running!
+2. 
